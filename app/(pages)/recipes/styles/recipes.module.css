@@ -1,0 +1,82 @@
+/* Recipes.module.css */
+
+.recipes {
+  padding: 4rem 0;
+  background-color: #f9f9f9;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.heading {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.recipeCard {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.recipeCard h3 {
+  font-size: 1.75rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.recipeCard p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.recipeCard strong {
+  font-weight: bold;
+}
+
+.recipeCard .category {
+  font-style: italic;
+  color: #888;
+}
+
+.deleteButton {
+  background-color: #ff4d4d;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.deleteButton:hover {
+  background-color: #e60000;
+}
+
+@media (max-width: 768px) {
+  .recipeCard {
+    padding: 1.5rem;
+  }
+
+  .heading {
+    font-size: 2rem;
+  }
+
+  .recipeCard h3 {
+    font-size: 1.5rem;
+  }
+
+  .recipeCard p {
+    font-size: 0.9rem;
+  }
+}
+

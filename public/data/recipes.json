@@ -1,0 +1,127 @@
+{
+  "recipes": [
+    {
+      "name": "Pannenkoeken",
+      "ingredients": [
+        "200g bloem",
+        "3 eieren",
+        "500ml melk",
+        "snufje zout",
+        "boter voor het bakken"
+      ],
+      "instructions": "Meng de bloem, eieren, melk en zout tot een glad beslag. Verhit wat boter in een pan en bak dunne pannenkoeken aan beide kanten goudbruin.",
+      "category": "Ontbijt"
+    },
+    {
+      "name": "Caesar Salad",
+      "ingredients": [
+        "1 krop romaine sla",
+        "100g croutons",
+        "50g Parmezaanse kaas",
+        "2 kipfilets",
+        "Caesar dressing"
+      ],
+      "instructions": "Grill de kipfilets en snijd ze in stukjes. Meng de sla met croutons, Parmezaanse kaas en kip. Besprenkel met Caesar dressing.",
+      "category": "Lunch"
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "300g spaghetti",
+        "400g gehakt",
+        "1 ui",
+        "2 teentjes knoflook",
+        "400g tomatenblokjes",
+        "Parmezaanse kaas"
+      ],
+      "instructions": "Kook de spaghetti volgens de instructies. Bak de ui en knoflook aan en voeg het gehakt toe. Giet de tomatenblokjes erbij en laat sudderen. Serveer met spaghetti en Parmezaanse kaas.",
+      "category": "Diner"
+    },
+    {
+      "name": "Appeltaart",
+      "ingredients": [
+        "200g bloem",
+        "100g boter",
+        "100g suiker",
+        "4 appels",
+        "kaneel naar smaak"
+      ],
+      "instructions": "Maak een deeg van bloem, boter en suiker. Schil de appels en snijd in schijfjes. Leg de appels op het deeg en bestrooi met kaneel. Bak 45 minuten op 180°C.",
+      "category": "Dessert"
+    },
+    {
+      "name": "Avocado Toast",
+      "ingredients": [
+        "2 sneetjes brood",
+        "1 avocado",
+        "1 ei",
+        "peper en zout"
+      ],
+      "instructions": "Rooster het brood. Prak de avocado en breng op smaak met peper en zout. Bak een ei en serveer op de avocado toast.",
+      "category": "Ontbijt"
+    },
+    {
+      "name": "Club Sandwich",
+      "ingredients": [
+        "3 sneetjes brood",
+        "1 plakje kipfilet",
+        "1 plakje bacon",
+        "sla",
+        "tomaat",
+        "mayonaise"
+      ],
+      "instructions": "Bak de bacon krokant. Beleg twee sneetjes brood met sla, tomaat, kipfilet en bacon. Besmeer met mayonaise en leg het derde sneetje brood erbovenop.",
+      "category": "Lunch"
+    },
+    {
+      "name": "Lasagne",
+      "ingredients": [
+        "300g gehakt",
+        "1 ui",
+        "2 teentjes knoflook",
+        "400g tomatenblokjes",
+        "lasagnebladen",
+        "bechamelsaus",
+        "geraspte kaas"
+      ],
+      "instructions": "Bak de ui en knoflook aan en voeg het gehakt toe. Voeg de tomatenblokjes toe en laat sudderen. Laag de saus met lasagnebladen en bechamelsaus in een ovenschaal. Bestrooi met kaas en bak 45 minuten op 180°C.",
+      "category": "Diner"
+    },
+    {
+      "name": "Chocolademousse",
+      "ingredients": [
+        "200g pure chocolade",
+        "3 eieren",
+        "50g suiker",
+        "200ml slagroom"
+      ],
+      "instructions": "Smelt de chocolade au bain-marie. Klop de eidooiers met suiker en roer door de chocolade. Klop de slagroom stijf en spatel door het chocolademengsel. Laat minimaal 2 uur opstijven in de koelkast.",
+      "category": "Dessert"
+    },
+    {
+      "name": "Ratatouille",
+      "ingredients": [
+        "1 aubergine",
+        "1 courgette",
+        "1 rode paprika",
+        "1 ui",
+        "2 tomaten",
+        "1 teentje knoflook"
+      ],
+      "instructions": "Snijd de groenten in stukjes. Bak de ui en knoflook aan en voeg de groenten toe. Laat alles zachtjes sudderen tot de groenten gaar zijn. Serveer warm.",
+      "category": "Lunch"
+    },
+    {
+      "name": "Brownies",
+      "ingredients": [
+        "200g pure chocolade",
+        "200g boter",
+        "250g suiker",
+        "4 eieren",
+        "100g bloem"
+      ],
+      "instructions": "Smelt de chocolade en boter samen. Klop de eieren met suiker en voeg de gesmolten chocolade toe. Spatel de bloem erdoor. Giet het mengsel in een bakvorm en bak 25 minuten op 180°C.",
+      "category": "Dessert"
+    }
+  ]
+}
